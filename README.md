@@ -1,4 +1,4 @@
-# DataScienceExamples
+# Data Science Examples
 
 ## Week 1
 ### Exercise 1:
@@ -26,7 +26,6 @@ def listefonk(liste):
 liste_mesaj = list(input("Lütfen bir liste giriniz: "))
 listefonk(liste_mesaj)
 
-## Week 2
 ### Exercise 2:
 Write a function that receives a string as parameter and return the number of each character in it.
 
