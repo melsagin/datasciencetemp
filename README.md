@@ -11,7 +11,7 @@ Write a function that receives a string as parameter and return the number of ea
 ### Exercise 1:
 Use and experience methods from previous lessons with given data. Try to search for other pandas methods to analyze the data such as groupby() and read_csv().
 
-# You can find covid related data under project's data folder 
+#### You can find covid related data under project's data folder 
 base_url = "../data/covid/"
 infected_dataset_url = base_url + "time_series_covid19_confirmed_global.csv"
 recovered_dataset_url = base_url + "time_series_covid19_recovered_global.csv"
