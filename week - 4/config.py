@@ -1,2 +1,2 @@
-YOUTUBE_API_KEY = "your api key"
-GOOGLE_BOOK_API_KEY = "your api key"
+YOUTUBE_API_KEY = "AIzaSyDdu5WaUqfzXrS1vKfFXmSPiYbsRFZpt6o"
+GOOGLE_BOOK_API_KEY = "AIzaSyBJvzOHv975Ym6znIRMkU1igh6zmsKNs-4"
